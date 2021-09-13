@@ -1,24 +1,14 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+# Slot Machine 🎰
 
-### Goal: Build a Simple Slot Machine
+Spin the slots and get three matching items to win 10X your bet or you lose your bet.
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+**Live Demo:** https://slot-machine-jenna-nguyen.netlify.app/
 
-### How to submit your code for review:
+<img width="949" alt="Slot Machine Display" src="https://user-images.githubusercontent.com/88993361/133137719-a28cb884-eec9-453f-bc40-d8100178ef39.png">
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+The application uses the function Math.random() to generate each slot's item individually (at an equal probability). Then using multiple functions, the application is able to display the user's credits after each spin and wether they have won or lost, depending on their item matches.
+
+## What I Learned
+Because the slot items are constantly changing, the program required a lot of conditional statments and variables. Creating this application definitely emphasized the importance of organization which helped clear a lot of the confusion that had popped up.
