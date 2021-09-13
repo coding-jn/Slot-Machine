@@ -11,4 +11,4 @@ Spin the slots and get three matching items to win 10X your bet or you lose your
 The application uses the function Math.random() to generate each slot's item individually (at an equal probability). Then using multiple functions, the application is able to display the user's credits after each spin and wether they have won or lost, depending on their item matches.
 
 ## What I Learned
-Because the slot items are constantly changing, the program required a lot of conditional statments and variables. Creating this application definitely emphasized the importance of organization which helped clear a lot of the confusion that had popped up.
+Because the slot items are constantly changing, the program required a lot of conditional statments and variables. Creating this application definitely emphasized the importance of organization which helped clear a lot of the confusion that had popped up along the way.
