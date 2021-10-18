@@ -2,7 +2,7 @@
 
 Spin the slots and get three matching items to win 10X your bet or you lose your bet.
 
-**Live Demo:** https://slot-machine-jenna-nguyen.netlify.app/
+**Live Demo:** <a href="https://slot-machine-jenna-nguyen.netlify.app/">Demo</a>
 
 <img width="949" alt="Slot Machine Display" src="https://user-images.githubusercontent.com/88993361/133137719-a28cb884-eec9-453f-bc40-d8100178ef39.png">
 
